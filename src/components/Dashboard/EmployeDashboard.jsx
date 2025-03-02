@@ -4,7 +4,7 @@ import { TaskList } from "../TaskList/TaskList"
  
 export const EmployeDashBoard=()=>{
     return(<>
-        <div className="w-screen rounded-2xl h-screen bg-[#1C1C1C]">
+        <div className="w-screen  h-screen bg-[#1C1C1C]">
         <div className="!p-10 ">
             <Header/>
             <TaskListNumber /> 
